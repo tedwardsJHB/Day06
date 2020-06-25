@@ -6,7 +6,7 @@
 /*   By: tedwards <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/25 13:13:33 by tedwards          #+#    #+#             */
-/*   Updated: 2020/06/25 13:15:55 by tedwards         ###   ########.fr       */
+/*   Updated: 2020/06/25 14:14:03 by tedwards         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,4 +18,14 @@ int ft_putchar(char c)
 
 
 	return 0:
+}
+
+int main()
+{	ft_putchar();
+	return 0;
+
+	ft_print_programs_name();
+
+	return 0;
+
 }

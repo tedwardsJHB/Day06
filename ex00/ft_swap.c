@@ -6,11 +6,18 @@
 /*   By: tedwards <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/25 12:28:37 by tedwards          #+#    #+#             */
-/*   Updated: 2020/06/25 12:28:59 by tedwards         ###   ########.fr       */
+/*   Updated: 2020/06/25 13:47:11 by tedwards         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+#include < stdio.h>
+#include <unistd.h>
+#include <libft.h>
+
+void	ft_swap(int *a, int *b)
 
 {
 
+
 	return 0;
 }
+

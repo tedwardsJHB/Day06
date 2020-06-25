@@ -6,10 +6,14 @@
 /*   By: tedwards <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/25 12:30:43 by tedwards          #+#    #+#             */
-/*   Updated: 2020/06/25 12:30:59 by tedwards         ###   ########.fr       */
+/*   Updated: 2020/06/25 13:52:50 by tedwards         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+#include	<stdio.h>
+#include	<unistd.h>
+#include	<libft.h>
 
+int ft_strcmp(char *s1, char *2);
 {
 
 	return 0;
