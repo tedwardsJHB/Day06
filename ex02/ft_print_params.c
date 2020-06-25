@@ -6,9 +6,12 @@
 /*   By: tedwards <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/25 13:16:55 by tedwards          #+#    #+#             */
-/*   Updated: 2020/06/25 13:19:03 by tedwards         ###   ########.fr       */
+/*   Updated: 2020/06/25 14:23:28 by tedwards         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+#include <stdio.h>
+#include <unistd.h>
+
 
 char ft_putchar(char c)
 {
@@ -16,4 +19,8 @@ char ft_putchar(char c)
 
 	return 0;
 }
+int main()
+{
 
+	return 0;
+}
